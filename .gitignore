@@ -161,3 +161,4 @@ cython_debug/
 
 # Add your data directory here
 data/*
+.DS_Store
